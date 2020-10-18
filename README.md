@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## Quiz application
+Quiz application, in it a user, an auto-cut user, can create questions, Authorization occurs with the help of the fair base service
 
 ### `yarn start`
 
